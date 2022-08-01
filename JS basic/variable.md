@@ -1,4 +1,4 @@
-```
+```js
 let name = 'mike';
 const age = '29';
 ```
